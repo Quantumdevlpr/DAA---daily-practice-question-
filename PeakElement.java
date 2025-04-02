@@ -1,6 +1,6 @@
 public class PeakElement {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 1, 5, 6, 4};
+        int[] arr = {1,2, 3, 1, 5, 6, 4};
         System.out.println(findPeakElement(arr));
     }
     public static int findPeakElement(int[] arr) {
