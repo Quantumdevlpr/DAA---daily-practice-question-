@@ -17,9 +17,9 @@ public class StringMatching{
                 }
             }
             if (j == m) {
-                return true; // found
+                return true; 
             }
         }
-        return false; // not found
+        return false; 
     }
 }
